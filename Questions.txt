@@ -1,0 +1,24 @@
+     Practice Questions of C programming:
+
+1.SWap two numbers:(done)
+2.Check whether a number is prime or not:
+3.Print Factorial of a number:(done)
+4.Print Fibonacci series upto nth term:(done)
+
+
+5.WTAP to reverse an array:(done)
+6.WTAP to find the largest and smallest element in an array:(done)
+7.Check if the string is palindrome or not:(done)
+
+
+8.Swap two numbers using pointers:(done)
+9.Find length of a string using pointers:(done)
+
+
+10.WTAP to store and display the information about the students using a structure:(done)
+11.WTAP to add two complex numbers using structure:(UNDONE)
+
+
+
+12.WTAP to read and display the content of a file:(done)
+13.WTAP to count the number of lines, words and characters in a file:
